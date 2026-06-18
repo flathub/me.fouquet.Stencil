@@ -36,9 +36,6 @@
         {
             "name" : "stencil",
             "buildsystem" : "meson",
-            "config-opts" : [
-                "--libdir=lib"
-            ],
             "sources" : [
                 {
                     "type" : "git",
