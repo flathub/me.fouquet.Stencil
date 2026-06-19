@@ -25,13 +25,6 @@
             "CARGO_NET_OFFLINE" : "true"
         }
     },
-    "cleanup" : [
-        "/include",
-        "/lib/pkgconfig",
-        "/man",
-        "/share/doc",
-        "*.a"
-    ],
     "modules" : [
         {
             "name" : "stencil",
