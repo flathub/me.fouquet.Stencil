@@ -33,8 +33,8 @@
                 {
                     "type" : "git",
                     "url" : "https://codeberg.org/fouquet/Stencil.git",
-                    "tag" : "v1.1.0",
-                    "commit" : "232bc46df23c437b416806102e07edcbcd0f1be0"
+                    "tag" : "v1.2.0",
+                    "commit" : "f9faa6625adc0842d3bd8cd9d4fc00fdcc71e6da"
                 },
                 "cargo-sources.json",
                 {
